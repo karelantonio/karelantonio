@@ -1,5 +1,8 @@
-### Hi there 👋
+###  👋 Hey!
+Im a dev, currently studying.
+I love linux, python and math (yay!)
 
+Here is my telegram: **t . me / k4r3l_dev**
 <!--
 **karelantonio/karelantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
