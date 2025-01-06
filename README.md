@@ -1,6 +1,6 @@
 ###  👋 Hey!
 Im a dev, currently studying.
-I love linux, python and math (yay!)
+I love linux, rust, python and math (yay!)
 
 Here is my telegram: **t . me / k4r3l_dev**
 <!--
